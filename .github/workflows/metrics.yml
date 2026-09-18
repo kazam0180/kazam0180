@@ -21,8 +21,8 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 16
           plugin_topics_mode: icons
-          plugin_habits: yes
-          plugin_habits_facts: yes
+          plugin_habits: no
+          plugin_habits_facts: no
           plugin_habits_charts: no
           config_timezone: Asia/Karachi
           plugin_licenses: yes
